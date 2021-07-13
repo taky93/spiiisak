@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.submit{
+    width:100%;
+}
+#title{
+    color:navy;
+    text-align:center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
